@@ -1,0 +1,38 @@
+user@cu-cs-vm:~/Dropbox/CSCI3308/Labs/Lab4/Lab4$ git log
+commit 60e96ed4315499062708f8e853c96a3ea02571ec
+Merge: 5fefbb5 b751f7c
+Author: user <fial3560@colorado.edu>
+Date:   Tue Sep 19 18:37:42 2017 -0600
+
+    resolved merge conflict
+
+commit 5fefbb555d3d71d6c5833b494666bf963c018351
+Author: user <fial3560@colorado.edu>
+Date:   Tue Sep 19 18:23:51 2017 -0600
+
+    Edited README.MD per step 23 instructions
+
+commit b751f7cccb75013fbdb72c40652d64f6cf0d737a
+Author: user <alma2953@colorado.edu>
+Date:   Tue Sep 19 18:15:24 2017 -0600
+
+    added partner name
+
+commit ffe2369eb5972c6b65fb22f91b6546f829ec993e
+Author: user <fial3560@colorado.edu>
+Date:   Tue Sep 19 18:05:49 2017 -0600
+
+    added files
+
+commit 82df82331f188d3b5809b837450cfa10b79d48de
+Author: user <fial3560@colorado.edu>
+Date:   Tue Sep 19 17:52:12 2017 -0600
+
+    Updated README.md and added a few other files
+
+commit b07e9f406232e94e52fe1e5b67d00ef56d722550
+Author: CassiusSlay <30355201+CassiusSlay@users.noreply.github.com>
+Date:   Tue Sep 19 17:16:00 2017 -0600
+
+    Initial commit
+
